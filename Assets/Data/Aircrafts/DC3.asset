@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f398654fa49842ecbec1889a65693ac, type: 3}
+  m_Name: DC3
+  m_EditorClassIdentifier: 
+  _aircraftName: DC-3
+  _icon: {fileID: 0}
+  _class: 0
+  _purpose: 0
+  _purchasePrice: 96000
+  _sellPrice: 80000
+  _maintenanceCostPerMonth: 0
+  _operatingCostPerHour: 0
+  _fuelCapacity: 0
+  _fuelConsumptionPerHour: 0
+  _passengerCapacity: 0
+  _speed: 0
+  _range: 0
+  _seats: 0
+  _cargoCapacity: 0
