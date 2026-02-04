@@ -97,3 +97,25 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Mac hidden files
+*.DS_Store
+*/.ipynb_checkpoints
+*/.idea
+*.pyc
+*.idea/misc.xml
+*.idea/modules.xml
+*.idea/
+*.iml
+*.cache
+*/build/
+*/dist/
+*.egg-info*
+*.eggs*
+*.gitignore.swp
+
+# VSCode hidden files
+*.vscode/
+
+.DS_Store
+.ipynb_checkpoints
