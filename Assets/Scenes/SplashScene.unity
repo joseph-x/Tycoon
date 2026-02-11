@@ -343,8 +343,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 475a2d82dbe414576820753b2a88087d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _dontDestroyOnLoad: 1
-  _allowMultipleInstances: 0
   sceneFaderPrefab: {fileID: 205144343922564659, guid: f6d01cda550ac4eb08c61339ff8c412b,
     type: 3}
 --- !u!1 &875014855
@@ -513,7 +511,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc6be7d18ad68462884af41e37fa8f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneManager: {fileID: 849188857}
 --- !u!4 &1434252248
 Transform:
   m_ObjectHideFlags: 0
